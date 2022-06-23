@@ -18,6 +18,8 @@
     * [ ] Пойти в магазин
 * [X] Сделать д/з
 * [ ] Отправить д/з
+* [ ] Разобраться с входом в чужой репозиторий на github
+
 
 # Видео
 [![Картинка Видео](https://bipbap.ru/wp-content/uploads/2017/04/krasivye_kollazh_na_temu_prirody_1920x1200.jpg)](https://youtu.be/8ZzmUeoGR3w?t=14)
